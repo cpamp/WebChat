@@ -1,0 +1,5 @@
+form { padding: 5px; position: fixed; bottom: 0; width: 100%; }
+.systemMsg { color: red; }
+#messages { list-style-type: none; margin: 5px; margin-bottom: 45px; padding: 0; }
+#messages li { margin: 5px; }
+#messages li:nth-child(odd) { background: #eee; }
